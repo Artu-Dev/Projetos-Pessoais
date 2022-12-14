@@ -3,5 +3,5 @@
 <br>
 <br>
 <br>
-<a href="https://artu-dev.github.io/Projetos-Pessoais/Toxibook/">Toxibook</a>
+<a href="https://artu-dev.github.io/Toxibook/">Toxibook</a>
 <p>Projeto de rede social baseada no twiiter</p>
