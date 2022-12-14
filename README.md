@@ -3,4 +3,4 @@
 
 
 <a href="https://artu-dev.github.io/Projetos-Pessoais/Toxibook/">Toxibook</a>
-<small>Projeto de rede social baseada no twiiter</small>
+<p>Projeto de rede social baseada no twiiter</p>
